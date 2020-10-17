@@ -22,6 +22,10 @@ public class alertTest {
 		driver.findElement(By.xpath("/html/body/table[3]/tbody/tr[1]/td[2]/table/tbody/tr/td/div[4]/form/input")).click();
 		System.out.println(driver.switchTo().alert().getText());
 		driver.switchTo().alert().accept();
+		
+		System.out.println("Test Message1");
+		System.out.println("Test Message2");
+		System.out.println("Test Message3");
 	}
 
 }
