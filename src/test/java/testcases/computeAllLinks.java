@@ -31,6 +31,9 @@ public class computeAllLinks {
 			System.out.println("Links Name:     "+links.get(i).getText());
 			System.out.println("Links URL :     "+links.get(i).getAttribute("href"));
 		}
+		
+		//By User X
+		System.out.println("Test Message6 by User X");
 	}
 
 }
