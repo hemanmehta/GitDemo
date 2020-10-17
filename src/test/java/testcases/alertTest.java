@@ -31,6 +31,10 @@ public class alertTest {
 		System.out.println("Test Message4 by User X");
 		System.out.println("Test Message5 by User X");
 		
+		//Develop Branch Asian Time Zone Architect1
+		System.out.println("New Message-1 by Asian Timezone Architect1");
+		System.out.println("New Message-2 by Asian Timezone Architect1");
+		
 	}
 
 }
