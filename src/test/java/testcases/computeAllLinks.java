@@ -34,6 +34,11 @@ public class computeAllLinks {
 		
 		//By User X
 		System.out.println("Test Message6 by User X");
+		
+		//Develop Branch American Time Zone Architect2
+		System.out.println("New Message-3 by American Timezone Architect2");
+		System.out.println("New Message-4 by American Timezone Architect2");
+
 	}
 
 }
